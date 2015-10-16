@@ -1,0 +1,6 @@
+C:\Users\kanisorn\Documents\Projects\c-sharp\String\bin\Debug\String.exe.config
+C:\Users\kanisorn\Documents\Projects\c-sharp\String\bin\Debug\String.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\String\bin\Debug\String.pdb
+C:\Users\kanisorn\Documents\Projects\c-sharp\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+C:\Users\kanisorn\Documents\Projects\c-sharp\String\obj\Debug\String.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\String\obj\Debug\String.pdb

@@ -1,0 +1,8 @@
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\bin\Debug\Multithread.exe.config
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\bin\Debug\Multithread.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\bin\Debug\Multithread.pdb
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\obj\Debug\Multithread.csprojResolveAssemblyReference.cache
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\obj\Debug\Multithread.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\obj\Debug\Multithread.pdb
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\obj\Debug\Multithread.UI.TestUI.resources
+C:\Users\kanisorn\Documents\Projects\c-sharp\Multithread\obj\Debug\Multithread.csproj.GenerateResource.Cache

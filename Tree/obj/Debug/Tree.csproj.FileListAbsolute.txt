@@ -1,0 +1,6 @@
+C:\Users\kanisorn\Documents\Projects\c-sharp\Tree\bin\Debug\Tree.exe.config
+C:\Users\kanisorn\Documents\Projects\c-sharp\Tree\bin\Debug\Tree.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\Tree\bin\Debug\Tree.pdb
+C:\Users\kanisorn\Documents\Projects\c-sharp\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Users\kanisorn\Documents\Projects\c-sharp\Tree\obj\Debug\Tree.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\Tree\obj\Debug\Tree.pdb

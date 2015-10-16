@@ -1,0 +1,6 @@
+C:\Users\kanisorn\Documents\Projects\c-sharp\Array\bin\Debug\Array.exe.config
+C:\Users\kanisorn\Documents\Projects\c-sharp\Array\bin\Debug\Array.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\Array\bin\Debug\Array.pdb
+C:\Users\kanisorn\Documents\Projects\c-sharp\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\kanisorn\Documents\Projects\c-sharp\Array\obj\Debug\Array.exe
+C:\Users\kanisorn\Documents\Projects\c-sharp\Array\obj\Debug\Array.pdb
