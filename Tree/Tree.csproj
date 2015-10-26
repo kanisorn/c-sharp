@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BST\BinarySearchTree.cs" />
     <Compile Include="BST\BSTValidator.cs" />
+    <Compile Include="BT\BinaryTree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

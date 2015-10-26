@@ -15,7 +15,61 @@ namespace Tree.BST
             
         }
 
-        
+        public Node<T> FindLowestCommonAncester(Node<T> root, int n1, int n2)
+        {
+            if (root == null)
+                return null;
+
+            if (root.Data.CompareTo(n1)<0 && root.Data.CompareTo(n2) <0)
+                return FindLowestCommonAncester(root.Right, n1, n2);
+
+            if (root.Data.CompareTo(n1) >0  && root.Data.CompareTo(n2) >0)
+                return FindLowestCommonAncester(root.Left, n1, n2);
+
+            return root;
+        }
+        public Node<T> FindLowestCommonAncesterLoop(Node<T> root, int n1, int n2)
+        {
+            while (root != null)
+            {
+                if (root.Data.CompareTo(n1) < 0 && root.Data.CompareTo(n2) < 0)
+                    root = root.Right;
+
+                else if (root.Data.CompareTo(n1) > 0 && root.Data.CompareTo(n2) > 0)
+                    root = root.Left;
+
+                else
+                    break;
+            }
+
+            return root;
+        }
+
+        public bool DoesNodeExist(T data)
+        {
+            bool found = false;
+            Node<T> walker = Root;
+            while(walker!=null)
+            {
+                if (walker.Data.CompareTo(data) == 0)
+                {
+                    found = true;
+                    break;
+                }
+                else if (walker.Data.CompareTo(data) < 0)
+                {
+                    walker = walker.Right;
+                }
+                else
+                {
+                    walker = walker.Left;
+                }
+
+            }
+
+            return found;
+        }
+
         public void Add(T data)
         {
             Node<T> tmp = new Node<T>(null, null, data);
